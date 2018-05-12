@@ -1,0 +1,42 @@
+_repo: The-Man-With-The-Broken-Ear_20724
+_version: 0.1.0
+alternative_title: L'homme à l'oreille cassée. English
+contributor:
+  translator:
+    agent_name: Holt, Henry
+    birthdate: 1840
+    deathdate: 1926
+    gutenberg_agent_id: '9483'
+    url: http://www.gutenberg.org/2009/agents/9483
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: About, Edmond
+    aliases:
+    - Avout, Edmondos
+    - About, E. (Edmond)
+    - Abu, Edmond
+    - About, Edmond François Valentin
+    - Ampou, Edmondos
+    - About, Edmond Francois Valentin
+    birthdate: 1828
+    deathdate: 1885
+    gutenberg_agent_id: '5182'
+    url: http://www.gutenberg.org/2009/agents/5182
+    wikipedia: http://en.wikipedia.org/wiki/Edmond_François_Valentin_About
+description: ''
+gutenberg_issued: '2007-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Science fiction'
+title: The Man With The Broken Ear
+url: http://www.gutenberg.org/ebooks/20724
